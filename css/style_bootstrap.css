@@ -1,0 +1,14 @@
+.col-lg-9 .card .card-header {
+	border: 1px solid #a3a2a3;
+    height: 400px;
+}
+
+.footer {
+	background: black;
+	width: 100%;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 3rem!important;
+}
